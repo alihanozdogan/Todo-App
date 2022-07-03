@@ -1,3 +1,7 @@
+### `npm install && npm start`
+To start project
+
+
 ## Available Scripts
 
 In the project directory, you can run:
